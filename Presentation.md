@@ -1,7 +1,7 @@
-#HUMI Glove Presentation
+# HUMI Glove Presentation
 
 
-##Abstract - Our Objective
+## Abstract - Our Objective
 Over the past decades, systems for interacting with machines has been developed and implemented in a
 way that machines can understand. As humans, we’ve had to learn how to use those systems in order to
 control the machines, however unnatural they may be.
@@ -13,39 +13,39 @@ circles be your preferred method of doing it?
 We don’t think so. And neither does Kevin Ford.
 
 
-##Timeline
+## Timeline
 
-###Week 2 
+### Week 2 
 Finishing presentation to class.
 
-###Week 3 
+### Week 3 
 Meeting with CTO. Setting up programing environment. Get SDK (Software Development Kit).
 
-###Week 4 
+### Week 4 
 Test SDK, get familiarized with the environment (programming environment).
 
-###Week 5 
+### Week 5 
 Test current control algorithms, and we start altering them and creating new and improved
 methods.
 
-###Week 6 
+### Week 6 
 Continue creating, improving, testing, analyzing different control algorithms.
 
-###Week 7 
+### Week 7 
 Finalizing new algorithms and putting them into place.
 
-###Week 8 
+### Week 8 
 Test flight with new and improved modules.
 
-###Week 9
+### Week 9
 Learn from test flight, improve/tweak algorithms in place.
 
-###Week 10
+### Week 10
 Retest, and FLY!
 
 
-##Resources 
-..* Nordic Semiconductor nRF52-Series SDK x 2 ($42.20)
-..* Sensors 9DOF IMU x 4 ($14.95)
-..* Software - KEIL (windows)
-..* Software - (https://aaroneiche.com/2016/06/01/programming-an- nrf52-on- a-mac/)
+## Resources 
+* Nordic Semiconductor nRF52-Series SDK x 2 ($42.20)
+* Sensors 9DOF IMU x 4 ($14.95)
+* Software - KEIL (windows)
+* Software - (https://aaroneiche.com/2016/06/01/programming-an- nrf52-on- a-mac/)
