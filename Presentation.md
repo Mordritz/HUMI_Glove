@@ -15,6 +15,7 @@ circles be your preferred method of doing it?
 
 We don’t think so. And neither does Kevin Ford.
 
+![Kevin Ford](https://github.com/Mordritz/HUMI_Glove/blob/master/kevinfordpic.PNG)
 
 ## Timeline
 
