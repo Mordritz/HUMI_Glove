@@ -1,5 +1,9 @@
 # HUMI Glove Presentation
 
+![HUMI Glove in Action]
+(https://github.com/Mordritz/HUMI_Glove/blob/master/humipic.PNG)
+
+
 
 ## Abstract - Our Objective
 Over the past decades, systems for interacting with machines has been developed and implemented in a
