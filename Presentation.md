@@ -1,7 +1,6 @@
 # HUMI Glove Presentation
 
-![HUMI Glove in Action]
-(https://github.com/Mordritz/HUMI_Glove/blob/master/humipic.PNG)
+![HUMI Glove in Action](https://github.com/Mordritz/HUMI_Glove/blob/master/humipic.PNG)
 
 
 
